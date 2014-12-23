@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tugasgambarsukritahang"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Akusayang"
+            android:label="@string/title_activity_akusayang" >
+        </activity>
+        <activity
+            android:name=".AngkatLaut"
+            android:label="@string/title_activity_angkat_laut" >
+        </activity>
+        <activity
+            android:name=".DaunBayam"
+            android:label="@string/title_activity_daun_bayam" >
+        </activity>
+        <activity
+            android:name=".KambingHitam"
+            android:label="@string/title_activity_kambing_hitam" >
+        </activity>
+        <activity
+            android:name=".KipasUdang"
+            android:label="@string/title_activity_kipas_udang" >
+        </activity>
+        <activity
+            android:name=".Obatcina"
+            android:label="@string/title_activity_obatcina" >
+        </activity>
+        <activity
+            android:name=".PersentasiBiaya"
+            android:label="@string/title_activity_persentasi_biaya" >
+        </activity>
+        <activity
+            android:name=".TenagaListrik"
+            android:label="@string/title_activity_tenaga_listrik" >
+        </activity>
+        <activity
+            android:name=".TuaBangka"
+            android:label="@string/title_activity_tua_bangka" >
+        </activity>
+        <activity
+            android:name=".Berhasil"
+            android:label="@string/title_activity_berhasil" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TugasGambarSukriTahang</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_akusayang">Gambar</string>
+    <string name="title_activity_angkat_laut">Gambar</string>
+    <string name="title_activity_daun_bayam">Gambar</string>
+    <string name="title_activity_kambing_hitam">Gambar</string>
+    <string name="title_activity_kipas_udang">Gambar</string>
+    <string name="title_activity_obatcina">Obatcina</string>
+    <string name="title_activity_persentasi_biaya">Gambar</string>
+    <string name="title_activity_tenaga_listrik">Gambar</string>
+    <string name="title_activity_tua_bangka">Gambar</string>
+    <string name="title_activity_berhasil">Berhasil</string>
+
+</resources>
